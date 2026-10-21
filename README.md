@@ -4,7 +4,7 @@
 
 ## Overview
 
-A nine-deliverable secure firmware lifecycle management framework for IoT connected devices, built on **MCUboot** and **SHA-256 cryptographic signing**. Developed as a consulting engagement for Spinnaker Analytics (Mar 2026).
+A nine-deliverable secure firmware lifecycle management framework for IoT connected devices, built on **MCUboot** and **SHA-256 cryptographic signing**. On-job training (OJT) project at Spinnaker Analytics (Boston Institute of Analytics), completed as part of my PG Diploma (Mar 2026), adapted for GitHub.
 
 Designed to protect IoT devices against unauthorised firmware modifications, malicious payload injection, and supply chain attacks — through a hardware root of trust and end-to-end OTA pipeline security.
 
